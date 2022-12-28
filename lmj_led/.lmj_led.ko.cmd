@@ -1,0 +1,1 @@
+cmd_/cygdrive/c/AndroXStudio/workspace/lmj_led/lmj_led.ko := arm-linux-androideabi-ld -EL -r                                   -T /platform/linux/scripts/module-common.lds --build-id   -o /cygdrive/c/AndroXStudio/workspace/lmj_led/lmj_led.ko /cygdrive/c/AndroXStudio/workspace/lmj_led/lmj_led.o /cygdrive/c/AndroXStudio/workspace/lmj_led/lmj_led.mod.o

@@ -1,0 +1,1 @@
+cmd_/cygdrive/c/AndroXStudio/workspace/lmj_piezo/lmj_piezo.ko := arm-linux-androideabi-ld -EL -r                                   -T /platform/linux/scripts/module-common.lds --build-id   -o /cygdrive/c/AndroXStudio/workspace/lmj_piezo/lmj_piezo.ko /cygdrive/c/AndroXStudio/workspace/lmj_piezo/lmj_piezo.o /cygdrive/c/AndroXStudio/workspace/lmj_piezo/lmj_piezo.mod.o
